@@ -25,7 +25,7 @@ class DB{
 	var  $database = null;
 	
 	function __construct(){
-		$dbhost = "192.168.2.105";
+		$dbhost = "localhost";
 		$account = "user";
 		$password = "0211";
 		
